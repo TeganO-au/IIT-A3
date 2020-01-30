@@ -1,0 +1,15 @@
+Tools and Technology
+
+For this project to be undertaken and completed, we will need 1 major tool and 1 major technology. 
+In relation to the technology, the program needs to be written in an IDE (Integrated Development Environment) and in this case the current version of Microsoft Visual Studio 2019, being v16.4.3, would be most optimal for its added 
+support and flexibility. As a fallback, the 2017 iteration of Visual Studio, v15.9.19 will do but isn’t the most optimised IDE for the job. 
+The reason this program will be suitable for what is needed for this project is due to the fact a vehicles’ ECU (Engine Control Unit), is programmed in the C language which Visual Studio is a recommended IDE
+for programming applications in the C language. Visual Studio will not need any prior experience by group members for optimal usage, as Microsoft provides any needed tutorials for installation and usage both in the application
+and the products website. The program will need to be run on any computer with Windows 7 SP1 or higher installed on it, a safe bet will be to have it run on something made in the year 2015 or after. 
+The free version of the product will be completely functional in what this project needs. If we, ColourTech, wanted more cloud options and technical support there is an option available given by Microsoft
+of an initial $1199 AUD first year payment and subsequent $799 product renewal for these and a few more added features. 
+
+The tool required in the project will be the use of an Arduino. These can be purchased from electronic shops like Jaycar or the Arduino product page respectively. 
+The usage of this hardware will not need any licences as the developers of Arduino promote open source development and usage. This being said it will take the user roughly a month of usage and tinkering to become completely familiar with
+the board and the installation and running of programs. This can be made easier with the use of the multiple tutorials available on YouTube and Arduinos website making it very possible to become familiar and functional with Arduinos
+in a matter of a couple of weeks. 
