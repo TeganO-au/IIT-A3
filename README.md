@@ -3,8 +3,8 @@
 ## [ColourTECH Website] (https://tegano-au.github.io/IIT-A2/)
 
 ## Important Links
--[MVP] (https://github.com/TeganO-au/IIT-A3/blob/master/FILES%20and%20Info/ArtifactMVP.java)
--[Constructor] (https://github.com/TeganO-au/IIT-A3/blob/master/FILES%20and%20Info/Constructor.java)
+- [MVP](https://github.com/TeganO-au/IIT-A3/blob/master/FILES%20and%20Info/ArtifactMVP.java)
+- [Constructor](https://github.com/TeganO-au/IIT-A3/blob/master/FILES%20and%20Info/Constructor.java)
 
 
 ## About
